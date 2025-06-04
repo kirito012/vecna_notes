@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sessions/oneshot-eldritch-eye/"}
+{"dg-publish":true,"permalink":"/1-sessions/oneshot-eldritch-eye/","noteIcon":""}
 ---
 
 

@@ -29,7 +29,8 @@ Si dice che chi impugna la **Star** abbia sempre un sentiero da seguire, ma che 
 - Flavour: una scia luminosa e linee astrali si illuminano al colpo.
 
 
-::: hidden
+:::hidden
+
 ---
 
 ### 🪙 Livello 11 – Lama Astrale
@@ -78,6 +79,8 @@ Si dice che chi impugna la **Star** abbia sempre un sentiero da seguire, ma che 
     - Non funziona su creature prive di bocca/linguaggio.
         
 - Flavour: la placca cambia colore, assumendo tonalità blu profondo con **riflessi di galassie** e simboli che si muovono lentamente sulla superficie.
+
+
 :::
 
 ---

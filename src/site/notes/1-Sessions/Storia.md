@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-sessions/storia/"}
+{"dg-publish":true,"permalink":"/1-sessions/storia/","noteIcon":""}
 ---
 
 
